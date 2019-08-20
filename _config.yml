@@ -68,6 +68,12 @@ defaults:
   values:
     root: ..
     layout: episode
+- scope:
+    path: ''
+    type: locale
+  values:
+    root: ..
+    layout: episode
 exclude:
 - Makefile
 - bin/
