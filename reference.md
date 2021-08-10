@@ -1,5 +1,7 @@
 ---
 layout: reference
+root: ..
+permalink: /reference/
 ---
 
 ## Glossary

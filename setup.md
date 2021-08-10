@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Setup
+root: ..
+permalink: /setup/
 ---
 
 > ## Data
